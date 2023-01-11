@@ -1,6 +1,6 @@
-<h1 style="text-align: center;">Hey there 👋</h1>
+<h1 style="text-align: center; border-bottom: none;">Hey there 👋</h1>
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/ekjmhJUGHJm7FC4Juo/giphy.gif" width="250"/>
+  <img src="https://media3.giphy.com/media/ekjmhJUGHJm7FC4Juo/giphy.gif?cid=ecf05e47qx2umh29aehh4li7wjlin1fbc1d33vwt1wl6auo5&rid=giphy.gif&ct=g" width="300"/>
 </div>
 
 ## About me
