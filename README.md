@@ -4,7 +4,7 @@
 </div>
 
 ## About me
-My name is Aleksandr, in my free time from university I am fond of programming
+My name is Aleksandr, i am beginner front-end developer.
 
 ## Languages and Tools
 
