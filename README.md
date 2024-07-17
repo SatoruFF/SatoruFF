@@ -4,7 +4,7 @@
 </div>
 
 ## About me
-My name is Aleksandr, i am junior front-end developer.
+My name is Aleksandr, i am junior full-stack developer.
 
 ## Languages and Tools
 
